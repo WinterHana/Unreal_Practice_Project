@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UdemyProjectSection3.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Projects\Unreal_Practice_Project\UdemyProjectSection3\Intermediate\Build\Win64\x64\UdemyProjectSection3Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"E:\Unreal Projects\Unreal_Practice_Project\UdemyProjectSection3\Intermediate\Build\Win64\x64\UnrealEditor\Development\UdemyProjectSection3\MovingPlatform.gen.cpp.obj"
+"E:\Unreal Projects\Unreal_Practice_Project\UdemyProjectSection3\Intermediate\Build\Win64\x64\UnrealEditor\Development\UdemyProjectSection3\UdemyProjectSection3.init.gen.cpp.obj"
+"E:\Unreal Projects\Unreal_Practice_Project\UdemyProjectSection3\Intermediate\Build\Win64\x64\UnrealEditor\Development\UdemyProjectSection3\MovingPlatform.cpp.obj"
+"E:\Unreal Projects\Unreal_Practice_Project\UdemyProjectSection3\Intermediate\Build\Win64\x64\UnrealEditor\Development\UdemyProjectSection3\UdemyProjectSection3.cpp.obj"
+"E:\Unreal Projects\Unreal_Practice_Project\UdemyProjectSection3\Intermediate\Build\Win64\x64\UnrealEditor\Development\UdemyProjectSection3\Default.rc2.res"
+/OUT:"E:\Unreal Projects\Unreal_Practice_Project\UdemyProjectSection3\Intermediate\Build\Win64\x64\UnrealEditor\Development\UdemyProjectSection3\UnrealEditor-UdemyProjectSection3.lib"

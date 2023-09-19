@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal Projects\\Unreal_Practice_Project\\UdemyProjectSection3\\Source\\UdemyProjectSection3\\UdemyProjectSection3.Build.cs",
+		"E:\\Unreal Projects\\Unreal_Practice_Project\\UdemyProjectSection3\\Source\\UdemyProjectSection3.Target.cs",
+		"E:\\Unreal Projects\\Unreal_Practice_Project\\UdemyProjectSection3\\Source\\UdemyProjectSection3Editor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

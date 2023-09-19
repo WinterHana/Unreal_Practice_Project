@@ -1,0 +1,42 @@
+[
+	{
+		"file": "E:\\Unreal Projects\\Unreal_Practice_Project\\UdemyProjectSection3\\Source\\UdemyProjectSection3\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Unreal_Practice_Project\\UdemyProjectSection3\\.vscode\\compileCommands_UdemyProjectSection3\\UdemyProjectSection3.255.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Unreal_Practice_Project\\UdemyProjectSection3\\Source\\UdemyProjectSection3\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Unreal_Practice_Project\\UdemyProjectSection3\\.vscode\\compileCommands_UdemyProjectSection3\\UdemyProjectSection3.255.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Unreal_Practice_Project\\UdemyProjectSection3\\Source\\UdemyProjectSection3\\UdemyProjectSection3.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Unreal_Practice_Project\\UdemyProjectSection3\\.vscode\\compileCommands_UdemyProjectSection3\\UdemyProjectSection3.255.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Unreal_Practice_Project\\UdemyProjectSection3\\Source\\UdemyProjectSection3\\UdemyProjectSection3.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Unreal_Practice_Project\\UdemyProjectSection3\\.vscode\\compileCommands_UdemyProjectSection3\\UdemyProjectSection3.255.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Unreal_Practice_Project\\UdemyProjectSection3\\Source\\UdemyProjectSection3\\UdemyProjectSection3.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Unreal_Practice_Project\\UdemyProjectSection3\\.vscode\\compileCommands_UdemyProjectSection3\\UdemyProjectSection3.255.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.2\\Engine\\Source"
+	}
+]

@@ -1815,3 +1815,6 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.07-14.41.56:274][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 926 ms)
 [2023.09.07-14.41.56:281][821]AssetCheck: New page: 에셋 저장:  MainMap
 [2023.09.07-14.41.56:281][821]LogContentValidation: Display: /Script/Engine.World /Game/Maps/MainMap.MainMap 유효성 검사 중
+[2023.09.07-15.25.19:472][801]LogDerivedDataCache: C:/Users/haha9/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.271 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5952 files in 7871 folders with total size 4735 MiB.
+[2023.09.07-16.25.19:487][600]LogDerivedDataCache: C:/Users/haha9/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.247 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5952 files in 7871 folders with total size 4735 MiB.
+[2023.09.07-17.25.19:451][399]LogDerivedDataCache: C:/Users/haha9/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.199 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5952 files in 7871 folders with total size 4735 MiB.

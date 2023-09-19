@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\unreal_practice_project\\udemyprojectsection3\\source\\udemyprojectsection3\\udemyprojectsection3.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\unreal_practice_project\\udemyprojectsection3\\intermediate\\build\\win64\\x64\\udemyprojectsection3editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\unreal_practice_project\\udemyprojectsection3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\udemyprojectsection3\\definitions.udemyprojectsection3.h",
+            "e:\\unreal projects\\unreal_practice_project\\udemyprojectsection3\\source\\udemyprojectsection3\\udemyprojectsection3.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

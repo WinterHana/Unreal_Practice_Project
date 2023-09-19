@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UdemyProjectSection3",
+			"Path": "E:\\Unreal Projects\\Unreal_Practice_Project\\UdemyProjectSection3\\Source\\UdemyProjectSection3.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UdemyProjectSection3Editor",
+			"Path": "E:\\Unreal Projects\\Unreal_Practice_Project\\UdemyProjectSection3\\Source\\UdemyProjectSection3Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
